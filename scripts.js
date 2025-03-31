@@ -39,6 +39,7 @@ document
         "lightblue")
   );
 
+// Otra forma de cambiar el fondo de todos los infocard-lg-data text-muted para todos los Pokimon voladores itype flying
 // document.querySelectorAll(".infocard-lg-data.text-muted").forEach((card) => {
 //   if (card.innerHTML.includes("itype flying")) {
 //     card.style.background = "lightblue";
